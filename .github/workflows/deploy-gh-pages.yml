@@ -21,7 +21,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      # سایت استاتیک از برanch gh-pages می‌آید — بیلدی در کار نیست.
+      # سایت استاتیک از branch gh-pages می‌آید — بیلدی در کار نیست.
       - name: Checkout site files
         uses: actions/checkout@v4
         with:
