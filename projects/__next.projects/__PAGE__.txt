@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[49553,["/poodlin-demo/_next/static/chunks/27rjxa9lglnnj.js","/poodlin-demo/_next/static/chunks/1nxil5nf_m3iy.js","/poodlin-demo/_next/static/chunks/1l3k8opbj14r9.js","/poodlin-demo/_next/static/chunks/27sr3mkraa_1p.js","/poodlin-demo/_next/static/chunks/2w95-1vmqcyvo.js"],"default"]
+3:I[41443,["/poodlin-demo/_next/static/chunks/27rjxa9lglnnj.js","/poodlin-demo/_next/static/chunks/1nxil5nf_m3iy.js","/poodlin-demo/_next/static/chunks/1l3k8opbj14r9.js","/poodlin-demo/_next/static/chunks/27sr3mkraa_1p.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/poodlin-demo/_next/static/chunks/2w95-1vmqcyvo.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FalEjjWmHrHJgAISqByGC"}
+5:null

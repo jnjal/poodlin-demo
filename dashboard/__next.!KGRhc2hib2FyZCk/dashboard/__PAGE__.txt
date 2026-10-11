@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[10497,["/poodlin-demo/_next/static/chunks/27rjxa9lglnnj.js","/poodlin-demo/_next/static/chunks/1nxil5nf_m3iy.js","/poodlin-demo/_next/static/chunks/1l3k8opbj14r9.js","/poodlin-demo/_next/static/chunks/27sr3mkraa_1p.js"],"ClientPageRoot"]
+3:I[36812,["/poodlin-demo/_next/static/chunks/27rjxa9lglnnj.js","/poodlin-demo/_next/static/chunks/1nxil5nf_m3iy.js","/poodlin-demo/_next/static/chunks/1l3k8opbj14r9.js","/poodlin-demo/_next/static/chunks/27sr3mkraa_1p.js","/poodlin-demo/_next/static/chunks/44p_hqsjoe2_j.js","/poodlin-demo/_next/static/chunks/1z3gbg7qnuq8o.js"],"default"]
+6:I[41443,["/poodlin-demo/_next/static/chunks/27rjxa9lglnnj.js","/poodlin-demo/_next/static/chunks/1nxil5nf_m3iy.js","/poodlin-demo/_next/static/chunks/1l3k8opbj14r9.js","/poodlin-demo/_next/static/chunks/27sr3mkraa_1p.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/poodlin-demo/_next/static/chunks/1z3gbg7qnuq8o.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FalEjjWmHrHJgAISqByGC"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null

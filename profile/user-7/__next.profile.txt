@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[64274,["/poodlin-demo/_next/static/chunks/27rjxa9lglnnj.js","/poodlin-demo/_next/static/chunks/1nxil5nf_m3iy.js","/poodlin-demo/_next/static/chunks/1l3k8opbj14r9.js","/poodlin-demo/_next/static/chunks/27sr3mkraa_1p.js"],"default"]
+3:I[70761,["/poodlin-demo/_next/static/chunks/27rjxa9lglnnj.js","/poodlin-demo/_next/static/chunks/1nxil5nf_m3iy.js","/poodlin-demo/_next/static/chunks/1l3k8opbj14r9.js","/poodlin-demo/_next/static/chunks/27sr3mkraa_1p.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"FalEjjWmHrHJgAISqByGC"}

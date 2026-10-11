@@ -1,0 +1,3 @@
+:HL["/poodlin-demo/_next/static/chunks/1a8gy_xy3nj6o.css","style"]
+:HL["/poodlin-demo/_next/static/chunks/428nmhyxaodez.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"FalEjjWmHrHJgAISqByGC"}

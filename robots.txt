@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /poodlin.admin/
+Disallow: /dashboard/
+Disallow: /notifications/
+Disallow: /checkout/
+Disallow: /profile/edit/
+Disallow: /api/
+
+Sitemap: https://poodlin.ir/sitemap.xml
