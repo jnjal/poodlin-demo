@@ -2,7 +2,7 @@ name: Deploy GitHub Pages
 
 on:
   push:
-    branches: [gh-pages, main, master]
+    branches: [main, master]
   workflow_dispatch:
 
 permissions:
@@ -11,8 +11,8 @@ permissions:
   id-token: write
 
 concurrency:
-    group: pages
-    cancel-in-progress: false
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   deploy:
@@ -21,11 +21,11 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      # سایت استاتیک از branch gh-pages می‌آید — بیلدی در کار نیست.
+      # سایت از main منتشر می‌شود؛ نیازی به branch جداگانه برای انتشار نیست.
       - name: Checkout site files
         uses: actions/checkout@v4
         with:
-          ref: gh-pages
+          ref: main
 
       - name: Keep workflow files out of the published site
         run: rm -rf .github
